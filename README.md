@@ -9,3 +9,7 @@ Period of development: May - July 2012
 Libraries used: OpenCV2.1
 
 Note: Image resources are not included
+
+
+To see the code for password-encrypted image steganography, visit --> <br />
+https://github.com/shiladitya-bits/stego-crypto
