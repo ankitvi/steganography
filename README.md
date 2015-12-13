@@ -1,4 +1,4 @@
-Author: Shiladitya Mandal 16.shiladitya@gmail.com
+Authors: Shiladitya Mandal 16.shiladitya@gmail.com , Ankit Vikrant ankitvikrant74@gmail.com
 
 Abstract: Image steganography. hide images or text inside other images without security. 
 
